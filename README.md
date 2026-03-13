@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou João Augusto Biava
 
 🎓 Estudante da Aprendizagem Industrial  
 💻 Interessado em tecnologia, programação e inovação  
