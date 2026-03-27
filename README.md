@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou João Augusto Biava
 
-🎓 Estudante da Aprendizagem Industrial  
+🎓 Estudante da Aprendizagem Industrial de Programador de Sistemas de Informação.(SENAI) Contratado pela Empresa Seara Alimentos.
+🎓 Estudante do 9º ano da Escola de Educação Básica Governador Bornhausen 2026.
+
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
