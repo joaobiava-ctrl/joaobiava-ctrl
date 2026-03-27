@@ -43,7 +43,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📌 Projeto 1 – [[Site 1]](https://joaobiava-ctrl.github.io/Site2/)  
-📌 Projeto 2 – [[Site 2](https://joaobiava-ctrl.github.io/Site2/)]  
+📌 Projeto 2 – [Nome do Projeto]   
 📌 Projeto 3 – [Nome do Projeto]  
 
 ---
