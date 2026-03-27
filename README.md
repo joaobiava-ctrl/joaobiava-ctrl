@@ -5,6 +5,10 @@
 🎓 Estudante do 9º ano da Escola de Educação Básica Governador Bornhausen 2026.
 
 
+## 📜 Cursos de Curta Duração
+
+🏛 **Curso...* – [Instituição] (Ano)
+
 
 💻 Interessado em tecnologia, programação e inovação  
 
